@@ -1,0 +1,13 @@
+H:\Documents\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\FormulaParser.exe
+H:\Documents\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\FormulaParser.deps.json
+H:\Documents\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\FormulaParser.runtimeconfig.json
+H:\Documents\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\FormulaParser.runtimeconfig.dev.json
+H:\Documents\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\FormulaParser.dll
+H:\Documents\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\FormulaParser.pdb
+H:\Documents\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\FormulaParser.csprojAssemblyReference.cache
+H:\Documents\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\FormulaParser.AssemblyInfoInputs.cache
+H:\Documents\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\FormulaParser.AssemblyInfo.cs
+H:\Documents\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\FormulaParser.csproj.CoreCompileInputs.cache
+H:\Documents\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\FormulaParser.dll
+H:\Documents\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\FormulaParser.pdb
+H:\Documents\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\FormulaParser.genruntimeconfig.cache

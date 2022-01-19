@@ -1,0 +1,29 @@
+﻿namespace IkiCore.Graphics
+{
+	public enum Filter
+	{
+        None,
+        Normal,
+        Add,
+        CompleteAdd,
+        Substract,
+        InvertSubstract,
+        Multiply,
+        AdditifBlend,
+        SubstractifBlend,
+        Screen,
+        Darken,
+        Lighten,
+        Difference,
+        Negation,
+        Exclusion,
+        Overlay,
+        SoftLight,
+        Dodge,
+        Burn,
+        Phoenix,
+        Reflectif,
+        Step,
+        Average
+    }
+}
